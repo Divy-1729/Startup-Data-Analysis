@@ -1,0 +1,937 @@
+,Company,Valuation ($B),Date Joined,Country,City,Industry,Investor
+0,Bytedance,140,07-04-2017,China,Beijing,Artificial intelligence,Sequoia Capital China
+1,SpaceX,100.3,01-12-2012,United States,Hawthorne,Other,Founders Fund
+2,Stripe,95,23-01-2014,United States,San Francisco,Fintech,Khosla Ventures
+3,Klarna,45.6,12-12-2011,Sweden,Stockholm,Fintech,Institutional Venture Partners
+4,Canva,40,08-01-2018,Australia,Surry Hills,Internet software & services,Sequoia Capital China
+5,Instacart,39,30-12-2014,United States,San Francisco,Supply chain logistics & delivery,Khosla Ventures
+6,Databricks,38,05-02-2019,United States,San Francisco,Data management & analytics,Andreessen Horowitz
+7,Revolut,33,26-04-2018,United Kingdom,London,Fintech,index Ventures
+8,Nubank,30,01-03-2018,Brazil,Sao Paulo,Fintech,Sequoia Capital
+9,Epic Games,28.7,26-10-2018,United States,Cary,Other,Tencent Holdings
+10,Chime,25,05-03-2019,United States,San Francisco,Fintech,Forerunner Ventures
+11,FTX,25,20-07-2021,Hong Kong,Hong Kong,Fintech,Sequoia Capital
+12,BYJU's,21,25-07-2017,India,Bengaluru,Edtech,Tencent Holdings
+13,Xiaohongshu,20,31-03-2016,China,Shanghai,E-commerce & direct-to-consumer,GGV Capital
+14,J&T Express,20,07-04-2021,Indonesia,Jakarta,Supply chain logistics & delivery,Hillhouse Capital Management
+15,Fanatics,18,06-06-2012,United States,Jacksonville,E-commerce & direct-to-consumer,SoftBank Group
+16,Yuanfudao,15.5,31-05-2017,China,Beijing,Edtech,Tencent Holdings
+17,DJI Innovations,15,23-01-2015,China,Shenzhen,Hardware,Accel Partners
+18,SHEIN,15,03-07-2018,China,Shenzhen,E-commerce & direct-to-consumer,Tiger Global Management
+19,Checkout.com,15,02-05-2019,United Kingdom,London,Fintech,Tiger Global Management
+20,goPuff,15,08-10-2020,United States,Philadelphia,E-commerce & direct-to-consumer,Accel
+21,Plaid Technologies,13.4,11-12-2018,United States,San Francisco,Fintech,New Enterprise Associates
+22,Grammarly,13,10-10-2019,United States,San Francisco,Internet software & services,General Catalyst
+23,Devoted Health,12.6,16-10-2018,United States,Waltham,Health,Andreessen Horowitz
+24,Faire,12.4,30-10-2019,United States,San Francisco,Artificial intelligence,Khosla Ventures
+25,Brex,12.3,05-10-2018,United States,San Francisco,Fintech,DST Global
+26,SenseTime,12,11-07-2017,China,Shanghai,Artificial intelligence,Star VC
+27,JUUL Labs,12,20-12-2017,United States,San Francisco,Consumer & retail,Tiger Global Management
+28,Bitmain Technologies,12,06-07-2018,China,Beijing,Hardware,Coatue Management
+29,Biosplice Therapeutics,12,06-08-2018,United States,San Diego,Health,Vickers Venture Partners
+30,GoodLeap,12,13-10-2021,United States,Roseville,Internet software & services,New Enterprise Associates
+31,ZongMu Technology,11.4,03-06-2021,China,Shanghai,Auto & transportation,LTW Capital
+32,Global Switch,11.1,22-12-2016,United Kingdom,London,Hardware,Aviation Industry Corporation of China
+33,Celonis,11,26-06-2018,Germany,Munich,Data management & analytics,Accel
+34,Weilong,10.88,08-05-2021,China,Luohe,Consumer & retail,Tencent Holdings
+35,Lalamove,10,21-02-2019,Hong Kong,Cheung Sha Wan,Supply chain logistics & delivery,MindWorks Ventures
+36,Ripple,10,20-12-2019,United States,San Francisco,Fintech,IDG Capital
+37,Figma,10,30-04-2020,United States,San Francisco,Internet software & services,Index Ventures
+38,Gusto,10,18-12-2015,United States,San Francisco,Fintech,General Catalyst Partners
+39,reddit,10,31-07-2017,United States,San Francisco,Internet software & services,Y Combinator
+40,Talkdesk,10,03-10-2018,United States,San Francisco,Internet software & services,DJF
+41,Notion Labs,10,01-04-2020,United States,San Francisco,Internet software & services,Index Ventures
+42,Thrasio,10,15-07-2020,United States,Walpole,Other,Upper90
+43,Digital Currency Group,10,01-11-2021,United States,New York,Fintech,Ribbit Capital
+44,OutSystems,9.5,05-06-2018,United States,Boston,Internet software & services,KKR
+45,ServiceTitan,9.5,14-11-2018,United States,Glendale,Internet software & services,Bessemer Venture Partners
+46,HEYTEA,9.28,01-07-2019,China,Shenzhen,Other,Sequoia Capital China
+47,N26,9.23,10-01-2019,Germany,Berlin,Fintech,Redalpine Venture Partners
+48,Klaviyo,9.2,17-11-2020,United States,Boston,Internet software & services,Summit Partners
+49,Northvolt,9.08,12-06-2019,Sweden,Stockholm,Other,Vattenfall
+50,Tanium,9,31-03-2015,United States,Kirkland,Cybersecurity,Andreessen Horowitz
+51,Chehaoduo,9,12-03-2016,China,Beijing,E-commerce & direct-to-consumer,Sequoia Capital China
+52,Niantic,9,24-11-2017,United States,San Francisco,Mobile & telecommunications,Nintendo
+53,OYO Rooms,9.6,25-09-2018,India,Gurugram,Travel,SoftBank Group
+54,Rapyd,8.75,03-12-2019,United Kingdom,London,Fintech,Target Global
+55,Kavak,8.7,01-10-2020,Mexico,Lerma de Villada,E-commerce & direct-to-consumer,DST Global
+56,Snyk,8.6,21-01-2020,United Kingdom,Reading,Cybersecurity,BOLDstart Ventures
+57,Nuro,8.6,11-02-2019,United States,Mountain View,Auto & transportation,SoftBank Group
+58,Lacework,8.3,07-01-2021,United States,San Jose,Cybersecurity,Sutter Hill Ventures
+59,Tipalti,8.3,06-10-2020,United States,San Mateo,Fintech,01 Advisors
+60,Tempus,8.1,21-03-2018,United States,Chicago,Health,New Enterprise Associates
+61,Xingsheng Selected,8,22-07-2020,China,Changsha,E-commerce & direct-to-consumer,KKR
+62,Dream11,8,09-04-2019,India,Mumbai,Internet software & services,Kaalari Capital
+63,Fireblocks,8,27-07-2021,United States,New York,Fintech,Tenaya Capital
+64,Caris Life Sciences,7.83,17-05-2021,United States,Irving,Health,Sixth Street Partners
+65,Dapper Labs,7.6,30-03-2021,Canada,Vancouver,Fintech,Union Square Ventures
+66,Hopin,7.75,10-11-2020,United Kingdom,London,Internet software & services,Accel
+67,Getir,7.5,26-03-2021,Turkey,Istanbul,E-commerce & direct-to-consumer,Tiger Global Management
+68,Netskope,7.5,13-11-2018,United States,Santa Clara,Cybersecurity,Lightspeed Venture Partners
+69,Toss,7.4,09-12-2018,South Korea,Seoul,Fintech,Bessemer Venture Partners
+70,Carta,7.4,06-05-2019,United States,San Francisco,Fintech,Menlo Ventures
+71,Scale AI,7.3,05-08-2019,United States,San Francisco,Artificial intelligence,Accel
+72,Argo AI,7.25,12-07-2019,United States,Pittsburgh,Artificial intelligence,Volkswagen Group
+73,Gong,7.25,12-08-2020,United States,Palo Alto,Artificial intelligence,Norwest Venture Partners
+74,TripActions,7.25,08-11-2018,United States,Palo Alto,Travel,Andreessen Horowitz
+75,Gemini,7.1,19-11-2021,United States,New York,Fintech,Morgan Creek Digital
+76,We Doctor,7,22-09-2015,China,Hangzhou,Health,Tencent
+77,Discord,7,20-04-2018,United States,San Francisco,Internet software & services,Benchmark
+78,Automation Anywhere,6.8,02-07-2018,United States,San Jose,Artificial intelligence,General Atlantic
+79,Ziroom,6.6,17-01-2018,China,Beijing,E-commerce & direct-to-consumer,Sequoia Capital China
+80,National Stock Exchange of India,6.5,01-07-2020,India,Mumbai,Fintech,TA Associates
+81,Mollie,6.5,08-09-2020,Netherlands,Amsterdam,Fintech,Technology Crossover Ventures
+82,Rippling,6.5,04-08-2020,United States,San Francisco,Internet software & services,Initialized Capital
+83,Ola Cabs,7.5,27-10-2014,India,Bengaluru,Auto & transportation,Accel Partners
+84,Samsara Networks,6.3,22-03-2018,United States,San Francisco,Hardware,Andreessen Horowitz
+85,DataRobot,6.3,29-07-2019,United States,Boston,Artificial intelligence,New Enterprise Associates
+86,Personio,6.3,19-01-2021,Germany,Munich,Internet software & services,Global Founders Capital
+87,Hinge Health,6.2,06-01-2021,United States,San Francisco,Health,Atomico
+88,Black Unicorn Factory,6.1,20-05-2021,United States,Los Angeles,Other,Barter Ventures
+89,Benchling,6.1,14-04-2021,United States,San Francisco,Internet software & services,Thrive Capital
+90,Royole Corporation,6,18-08-2015,China,Shenzhen,Hardware,Warmsun Holding
+91,Yuanqi Senlin,6,01-03-2020,China,Beijing,Consumer & retail,Sequoia Capital China
+92,Better.com,6,10-11-2020,United States,New York,Fintech,Pine Brook
+93,Wiz,6,17-03-2021,Israel,Tel Aviv,Cybersecurity,Insight Partners
+94,Bolt,6,08-10-2021,United States,San Francisco,Fintech,Activant Capital
+95,Attentive,5.99,23-09-2020,United States,Hoboken,Mobile & telecommunications,NextView Ventures
+96,Easyhome,5.78,12-02-2018,China,Beijing,Consumer & retail,Alibaba Group
+97,Lianjia,5.77,07-04-2016,China,Beijing,E-commerce & direct-to-consumer,Tencent
+98,Airtable,5.77,15-11-2018,United States,San Francisco,Internet software & services,Caffeinated Capital
+99,Vice Media,5.7,02-04-2011,United States,Brooklyn,Internet software & services,Technology Crossover Ventures
+100,Cityblock Health,5.7,10-12-2020,United States,Brooklyn,Health,Thrive Capital
+101,Workato,5.7,12-01-2021,United States,Mountain View,Internet software & services,Battery Ventures
+102,Postman,5.6,11-06-2020,United States,San Francisco,Internet software & services,Nexus Venture Partners
+103,FiveTran,5.6,30-06-2020,United States,Oakland,Data management & analytics,Matrix Partners
+104,Pony.ai,5.3,11-07-2018,United States,Fremont,Artificial intelligence,Sequoia Capital China
+105,Trade Republic,5.3,20-05-2021,Germany,Berlin,Fintech,Founders Fund. Accel
+106,Rappi,5.25,31-08-2018,Colombia,Bogota,Supply chain logistics & delivery,DST Global
+107,Collibra,5.25,29-01-2019,Belgium,Brussels,Data management & analytics,Index Ventures
+108,Blockchain.com,5.2,17-02-2021,United Kingdom,London,Fintech,Lightspeed Venture Partners
+109,HashiCorp,5.1,01-11-2018,United States,San Francisco,Internet software & services,Redpoint Ventures
+110,OneTrust,5.1,11-07-2019,United States,Atlanta,Internet software & services,Insight Partners
+111,QuintoAndar,5.1,09-09-2019,Brazil,Campinas,E-commerce & direct-to-consumer,Kaszek Ventures
+112,C6 Bank,5.05,02-12-2020,Brazil,Sao Paulo,Fintech,Credit Suisse
+113,United Imaging Healthcare,5,15-09-2017,China,Shanghai,Health,China Life Insurance
+114,Hello TransTech,5,01-06-2018,China,Shanghai,Auto & transportation,Ant Financial Services Group
+115,Swiggy,5.5,21-06-2018,India,Bengaluru,Supply chain logistics & delivery,Accel India
+116,Deel,5.5,21-04-2021,United States,San Francisco,Fintech,Andreessen Horowitz
+117,Airwallex,5.5,25-03-2019,Australia,Melbourne,Fintech,DST Global
+118,Horizon Robotics,5,27-02-2019,China,Beijing,Artificial intelligence,Hillhouse Capital Management
+119,WM Motor,5,08-03-2019,China,Shanghai,Auto & transportation,Baidu Capital
+120,Ro,5,27-07-2020,United States,New York,Health,Initialized Capital
+121,Howden Group Holdings,5,29-09-2020,United Kingdom,London,Other,General Atlantic
+122,SambaNova Systems,5,13-04-2021,United States,Palo Alto,Data management & analytics,Walden International
+123,ZEPZ,5,23-08-2021,United Kingdom,London,Fintech,Accel
+124,OakNorth,5,12-10-2017,United Kingdom,London,Fintech,Clermont Group
+125,Moon Active,5,26-01-2020,Israel,Tel Aviv,Mobile & telecommunications,Insight Partners
+126,Meesho,4.9,05-04-2021,India,Bengaluru,Internet software & services,Venture Highway
+127,Cerebral,4.8,10-06-2021,United States,San Francisco,Health,Oak HC/FT Partners
+128,Anduril,4.6,11-09-2019,United States,Irvine,Artificial intelligence,Andreessen Horowitz
+129,Lyra Health,4.6,25-08-2020,United States,Burlingame,Health,Greylock Partners
+130,Dataiku,4.6,04-12-2019,United States,New York,Internet software & services,Alven Capital
+131,Checkr,4.6,19-09-2019,United States,San Francisco,Internet software & services,Y Combinator
+132,Color,4.6,04-01-2021,United States,Burlingame,Health,General Catalyst
+133,Meizu Technology,4.58,23-07-2014,China,Zhuhai,Hardware,Telling Telecommunication Holding Co.
+134,Vinted,4.53,27-11-2019,Lithuania,Vilnius,E-commerce & direct-to-consumer,Accel
+135,Zenefits,4.5,06-05-2015,United States,San Francisco,Fintech,SV Angel
+136,VIPKid,4.5,04-08-2016,China,Beijing,Edtech,Sequoia Capital China
+137,Socure,4.5,16-03-2021,United States,New York,Cybersecurity,Two Sigma Ventures
+138,Monzo,4.5,31-10-2018,United Kingdom,London,Fintech,Passion Capital
+139,UBTECH Robotics,4.45,25-07-2016,China,Shenzhen,Hardware,CDH Investments
+140,Outreach,4.4,16-04-2019,United States,Seattle,Internet software & services,Mayfield Fund
+141,Bolt,4.75,29-05-2018,Estonia,Tallinn,Auto & transportation,Didi Chuxing
+142,BetterUp,4.7,25-02-2021,United States,San Francisco,Internet software & services,Threshold Ventures
+143,Arctic Wolf Networks,4.3,22-10-2020,United States,Eden Prairie,Cybersecurity,Lightspeed Venture Partners
+144,Sorare,4.3,21-09-2021,France,Paris,E-commerce & direct-to-consumer,Benchmark
+145,Relativity Space,4.2,23-11-2020,United States,Inglewood,Other,Playground Global
+146,Miaoshou Doctor,4.25,27-06-2019,China,Beijing,E-commerce & direct-to-consumer,Sequoia Capital China
+147,Chainalysis,4.2,23-11-2020,United States,New York,Fintech,Addition
+148,ThoughtSpot,4.2,08-05-2018,United States,Sunnyvale,Internet software & services,Lightspeed Venture Partners
+149,SSENSE,4.15,08-06-2021,Canada,Montreal,E-commerce & direct-to-consumer,Sequoia Capital
+150,Dataminr,4.1,04-06-2018,United States,New York,Artificial intelligence,Venrock
+151,BitPanda,4.11,16-03-2021,Austria,Vienna,Fintech,Speedinvest
+152,Houzz,4,30-09-2014,United States,Palo Alto,E-commerce & direct-to-consumer,New Enterprise Associates
+153,CRED,4.01,06-04-2021,India,Bengaluru,Fintech,Tiger Global Management
+154,Yello Mobile,4,11-11-2014,South Korea,Seoul,Mobile & telecommunications,Formation 8
+155,MEGVII,4,31-10-2017,China,Beijing,Artificial intelligence,Ant Financial Services Group
+156,Greensill,4,16-07-2018,United Kingdom,London,Fintech,SoftBank Group
+157,Impossible Foods,4,13-05-2019,United States,Redwood City,Consumer & retail,Khosla Ventures
+158,Radiology Partners,4,19-07-2019,United States,El Segundo,Health,New Enterprise Associates
+159,Next Insurance,4,07-10-2019,United States,Palo Alto,Fintech,Zeev Ventures
+160,Patreon,4,02-09-2020,United States,San Francisco,Internet software & services,Index Ventures
+161,PointClickCare,4,07-01-2021,Canada,Mississauga,Internet software & services,Dragoneer Investment Group
+162,Zapier,4,14-01-2021,United States,Sunnyvale,Internet software & services,Sequoia Capital
+163,Clubhouse,4,24-01-2021,United States,San Francisco,Mobile & telecommunications,Andreessen Horowitz
+164,BrowserStack,4,16-06-2021,Ireland,Dublin,Internet software & services,Accel
+165,Olive,4,01-12-2020,United States,Columbus,Internet software & services,Drive Capital
+166,iCapital Network,4,27-07-2021,United States,New York,Fintech,BlackRock
+167,Rubrik,4,28-04-2017,United States,Palo Alto,Data management & analytics,Greylock Partners
+168,Melio,4,25-01-2021,Israel,Tel Aviv,Fintech,Accel
+169,Vuori,4,13-10-2021,United States,Carlsbad,E-commerce & direct-to-consumer,SoftBank Group
+170,ClickUp,4,15-12-2020,United States,San Diego,Internet software & services,Georgian Partners
+171,Cerebras Systems,4,14-11-2018,United States,Los Altos,Hardware,Benchmark
+172,Farmers Business Network,4,03-08-2020,United States,San Carlos,Other,Blackrock
+173,Ramp Financial,3.9,29-03-2021,United States,New York,Fintech,D1 Capital Partners
+174,Intarcia Therapeutics,3.8,01-04-2014,United States,Boston,Health,New Enterprise Associates
+175,StockX,3.8,26-06-2019,United States,Detroit,E-commerce & direct-to-consumer,Google Ventures
+176,MessageBird,3.8,08-10-2020,Netherlands,Amsterdam,Mobile & telecommunications,Y Combinator
+177,Guild Education,3.75,13-11-2019,United States,Denver,Internet software & services,General Atlantic
+178,Articulate,3.75,01-07-2021,United States,New York,Edtech,Blackstone
+179,FalconX,3.75,10-08-2021,United States,San Mateo,Fintech,Tiger Global Management
+180,Dutchie,3.75,16-03-2021,United States,Bend,E-commerce & direct-to-consumer,Casa Verde Capital
+181,Cohesity,3.7,11-06-2018,United States,San Jose,Data management & analytics,SoftBank Group
+182,VAST Data,3.7,16-04-2020,United States,New York,Data management & analytics,Norwest Venture Partners
+183,GOAT,3.7,23-09-2020,United States,Culver City,E-commerce & direct-to-consumer,Upfront Ventures
+184,Noom,3.7,24-05-2021,United States,New York,Health,Qualcomm Ventures
+185,Redwood Materials,3.7,28-07-2021,United States,Carson City,Other,Breakthrough Energy Ventures
+186,Papaya Global,3.7,04-03-2021,United States,New York,Internet software & services,Bessemer Venture Partners
+187,Relativity,3.6,18-03-2021,United States,Chicago,Internet software & services,Silver Lake
+188,Whoop,3.6,28-10-2020,United States,Boston,E-commerce & direct-to-consumer,NextView Ventures
+189,Applied Intuition,3.6,22-10-2020,United States,Sunnyvale,Data management & analytics,Andreessen Horowitz
+190,Otto Bock HealthCare,3.52,24-06-2017,Germany,Duderstadt,Health,EQT Partners
+191,Indigo Ag,3.5,26-09-2017,United States,Boston,Artificial intelligence,Activant Capital Group
+192,HyalRoute,3.5,26-05-2020,Singapore,Singapore,Mobile & telecommunications,Kuang-Chi
+193,Digit Insurance,3.5,15-01-2021,India,Bengaluru,Fintech,Fairfax Financial Holdings
+194,Commure,3.5,13-09-2021,United States,San Francisco,Internet software & services,General Catalyst
+195,Mirakl,3.5,22-09-2020,France,Paris,E-commerce & direct-to-consumer,Elaia Partners
+196,Coalition,3.5,16-03-2021,United States,San Francisco,Cybersecurity,Two Sigma Ventures
+197,Tekion,3.5,21-10-2020,United States,San Ramon,Internet software & services,Airbus Ventures
+198,Alchemy,3.5,28-10-2021,United States,San Francisco,Fintech,DFJ Growth Fund
+199,Unacademy,3.44,02-09-2020,India,Bengaluru,Edtech,Blume Ventures
+200,MoonPay,3.4,22-11-2021,United States,Miami,Fintech,New Enterprise Associates
+201,Youxia Motors,3.35,02-04-2018,China,Shanghai,Auto & transportation,China Environmental Protection Industry
+202,OwnBackup,3.35,28-01-2021,United States,Englewood Cliffs,Data management & analytics,Insight Partners
+203,Upgrade,3.33,12-02-2018,United States,San Francisco,Fintech,Union Square Ventures
+204,Cloudwalk,3.32,08-10-2018,China,Guangzhou,Artificial intelligence,Oriza Holdings
+205,ECARX,3.31,26-10-2020,China,Wuhan,Auto & transportation,Geely
+206,Sila Nanotechnologies,3.3,16-04-2019,United States,Alameda,Other,Bessemer Venture Partners
+207,Scopely,3.3,29-10-2019,United States,Culver City,Mobile & telecommunications,Greycroft
+208,WeRide,3.3,23-12-2020,China,Guangzhou,Auto & transportation,Atop Capital
+209,Komodo Health,3.3,22-05-2020,United States,San Francisco,Health,Andreessen Horowitz
+210,Dadi Cinema,3.24,11-05-2016,China,Shenzhen,Other,Alibaba Pictures Group
+211,Thumbtack,3.2,29-09-2015,United States,San Francisco,E-commerce & direct-to-consumer,Tiger Global
+212,Flexport,3.2,30-04-2018,United States,San Francisco,Supply chain logistics & delivery,Bloomberg Beta
+213,Cedar,3.2,09-03-2021,United States,New York,Fintech,Thrive Capital
+214,Back Market,3.2,18-05-2021,France,Paris,E-commerce & direct-to-consumer,Aglae Ventures
+215,Eruditus Executive Education,3.2,12-08-2021,India,Mumbai,Edtech,Sequoia Capital India
+216,Blockstream,3.2,24-08-2021,Canada,Vancouver,Fintech,AME Cloud Ventures
+217,ConsenSys,3.2,17-11-2021,United States,New York,Fintech,Third Point
+218,Huitongda,3.18,22-12-2017,China,Nanjing,E-commerce & direct-to-consumer,Shunwei Capital Partners
+219,PsiQuantum,3.15,27-07-2021,United States,Palo Alto,Hardware,Playground Global
+220,SpotOn,3.15,26-05-2021,United States,San Francisco,Fintech,Dragoneer Investment Group
+221,Udaan,3.1,04-09-2018,India,Bengaluru,Supply chain logistics & delivery,DST Global
+222,HighRadius,3.1,07-01-2020,United States,Houston,Fintech,Susquehanna Growth Equity
+223,Nuvemshop,3.1,17-08-2021,Brazil,Sao Paulo,E-commerce & direct-to-consumer,Kaszek Ventures
+224,VANCL,3,14-12-2010,China,Beijing,E-commerce & direct-to-consumer,Ceyuan Ventures
+225,Yixia,3,24-11-2015,China,Beijing,Mobile & telecommunications,Sequoia Capital China
+226,Traveloka,3,01-01-2017,Indonesia,Jakarta,Travel,Global Founders Capital
+227,SouChe Holdings,3,01-11-2017,China,Hangzhou,E-commerce & direct-to-consumer,Morningside Ventures
+228,BGL Group,3,24-11-2017,United Kingdom,Peterborough,Fintech,CPP Investment Board
+229,Circle,3,15-05-2018,United States,Boston,Fintech,General Catalyst
+230,Zuoyebang,3,18-07-2018,China,Beijing,Edtech,Sequoia Capital China
+231,Delhivery,3,27-02-2019,India,Gurgaon,Supply chain logistics & delivery,Times Internet
+232,FlixMobility,3,18-07-2019,Germany,Munich,Auto & transportation,Holtzbrinck Ventures
+233,Wildlife Studios,3,05-12-2019,Brazil,Sao Paulo,Other,Benchmark
+234,Pine Labs,3,24-01-2020,India,Noida,Fintech,Sequoia Capital India
+235,ApplyBoard,3,05-05-2020,Canada,Kitchener,Edtech,Artiman Ventures
+236,Razorpay,3,11-10-2020,India,Bengaluru,Fintech,Sequoia Capital India
+237,Forter,3,19-11-2020,United States,New York,Cybersecurity,Sequoia Capital Israel
+238,Calendly,3,26-01-2021,United States,Atlanta,Internet software & services,ICONIQ Capital
+239,BlockFi,3,11-03-2021,United States,Jersey City,Fintech,ConsenSys Ventures
+240,ActiveCampaign,3,21-04-2021,United States,Chicago,Internet software & services,Silversmith Capital Partners
+241,CMR Surgical,3,17-09-2019,United Kingdom,Cambridge,Health,Cambridge Innovation Capital
+242,Lucid Software,3,29-06-2021,United States,South Jordan,Internet software & services,Spectrum Equity
+243,Age of Learning,3,03-05-2016,United States,Glendale,Edtech,Iconiq Capital
+244,Carbon Health,3,21-07-2021,United States,San Francisco,Health,Brookfield Asset Management
+245,ShareChat,3,08-04-2021,India,Bengaluru,Internet software & services,India Quotient
+246,Contentful,3,28-07-2021,Germany,Berlin,Internet software & services,Balderton Capital
+247,LaunchDarkly,3,28-07-2021,United States,Oakland,Internet software & services,Uncork Capital
+248,Hopper,3,24-03-2021,Canada,Montreal,Travel,Capital One Growth Ventures
+249,Seismic,3,18-12-2018,United States,San Diego,Internet software & services,Jackson Square Ventures
+250,Grafana Labs,3,24-08-2021,United States,New York,Internet software & services,Lightspeed Venture Partners
+251,Gorillas,3.1,25-03-2021,Germany,Berlin,E-commerce & direct-to-consumer,Coatue Management
+252,Ola Electric Mobility,3,02-07-2019,India,Bengaluru,Auto & transportation,SoftBank Group
+253,Sky Mavis,3,04-10-2021,Vietnam,Ho Chi Minh City,Internet software & services,Fabric Ventures
+254,Celsius Network,3,12-10-2021,United States,Hoboken,Fintech,WestCap Group
+255,Outschool,3,14-04-2021,United States,San Francisco,Edtech,Uniion Square Ventures
+256,TradingView,3,14-10-2021,United States,Westerville,Fintech,Tiger Global Management
+257,Groww,3,07-04-2021,India,Bengaluru,Fintech,Tiger Global Management
+258,Podium,3,07-04-2020,United States,Lehi,Internet software & services,Accel
+259,Via,3.3,30-03-2020,United States,New York,Auto & transportation,83North
+260,Kraken,2.92,25-06-2019,United States,San Francisco,Fintech,Bnk To The Future
+261,OpenAI,2.92,22-07-2019,United States,San Francisco,Artificial intelligence,Khosla Ventures
+262,Ovo,2.9,14-03-2019,Indonesia,Jakarta,Fintech,Grab
+263,Workrise,2.9,30-09-2019,United States,Austin,Internet software & services,Founders Fund
+264,Loft,2.9,03-01-2020,Brazil,Sao Paulo,E-commerce & direct-to-consumer,Monashees+
+265,OfBusiness,3,31-07-2021,India,Gurgaon,E-commerce & direct-to-consumer,Matrix Partners India
+266,BharatPe,2.85,30-07-2021,India,New Delhi,Fintech,Insight Partners
+267,DriveWealth,2.85,20-08-2021,United States,Chatham,Fintech,Point72 Ventures
+268,Meicai,2.8,22-06-2016,China,Beijing,Mobile & telecommunications,Tiger Global Management
+269,Icertis,2.8,17-07-2019,United States,Bellevue,Artificial intelligence,Eight Roads Ventures
+270,Weee!,2.8,16-03-2021,United States,Fremont,Supply chain logistics & delivery,Goodwater Capital
+271,ContentSquare,2.8,25-05-2021,France,Paris,Internet software & services,Highland Europe
+272,Zipline,2.8,20-05-2019,United States,South San Francisco,Supply chain logistics & delivery,Sequoia Capital
+273,Graphcore,2.77,18-12-2018,United Kingdom,Bristol,Artificial intelligence,Dell Technologies Capital
+274,Illumio,2.75,14-04-2015,United States,Sunnyvale,Cybersecurity,Data Collective
+275,Convoy,2.75,21-09-2018,United States,Seattle,Supply chain logistics & delivery,Greylock Partners
+276,MasterClass,2.75,13-05-2021,United States,San Francisco,Edtech,Institutional Venture Partners
+277,Transmit Security,2.74,22-06-2021,Israel,Tel Aviv,Cybersecurity,General Atlantic
+278,Hozon Auto,2.74,25-10-2021,China,Shanghai,Auto & transportation,HD Capital
+279,Tradeshift,2.7,30-05-2018,United States,San Francisco,Fintech,Notion Capital
+280,Nextiva,2.7,14-09-2021,United States,Scottsdale,Internet software & services,Goldman Sachs Asset Management
+281,Flink,2.7,01-12-2021,Germany,Berlin,E-commerce & direct-to-consumer,Mubadala Capital
+282,ManoMano,2.6,05-07-2021,France,Paris,E-commerce & direct-to-consumer,General Atlantic
+283,Sourcegraph,2.62,13-07-2021,United States,San Francisco,Internet software & services,Redpoint Ventures
+284,Pendo,2.6,17-10-2019,United States,Raleigh,Internet software & services,Contour Venture Partners
+285,Plume,2.6,23-02-2021,United States,Palo Alto,Internet software & services,Insight Partners
+286,Xinchao Media,2,09-04-2018,China,Chengdu,Internet software & services,JD.com
+287,JumpCloud,2.62,13-09-2021,United States,Louisville,Data management & analytics,Foundry Group
+288,Vista Global,2.5,23-08-2017,United Arab Emirates,Dubai,Other,Rhone Capital
+289,BYTON,2.5,20-04-2018,China,Nanjing,Auto & transportation,FAW Group
+290,Acronis,2.5,18-09-2019,Switzerland,Schaffhausen,Cybersecurity,Goldman Sachs
+291,Side,2.5,22-03-2021,United States,San Francisco,Internet software & services,Coatue Managemeny
+292,Lenskart,2.5,20-12-2019,India,Faridabad,E-commerce & direct-to-consumer,Chiratae Ventures
+293,Infra.Market,2.5,25-02-2021,India,Thane,E-commerce & direct-to-consumer,Accel
+294,Varo Bank,2.5,09-09-2021,United States,San Francisco,Fintech,Warburg Pincus
+295,Cato Networks,2.5,17-11-2020,Israel,Tel Aviv,Cybersecurity,Aspect Ventures
+296,Aura,2.5,09-06-2021,United States,Burlington,Cybersecurity,Warburg Pincus
+297,Vercel,2.5,23-06-2021,United States,San Francisco,Internet software & services,CRV
+298,Uala,2.45,13-08-2021,Argentina,Buenos Aires,Fintech,Soros Fund Management
+299,Mobile Premier League,2.45,15-09-2021,India,Bengaluru,Internet software & services,Sequoia Capital India
+300,Cybereason,2.44,06-08-2019,United States,Boston,Cybersecurity,SoftBank Group
+301,Cgtz,2.41,21-02-2017,China,Hangzhou,Fintech,Shunwei Capital Partners
+302,Star Charge,2.41,19-05-2021,China,Changzhou,Auto & transportation,Shunwei Capital Partners
+303,Carbon,2.4,20-08-2015,United States,Redwood City,Hardware,Google Ventures
+304,PolicyBazaar,2.4,06-05-2019,India,Gurgaon,Fintech,Info Edge
+305,Paxos,2.4,29-04-2021,United States,New York,Fintech,Liberty City Ventures
+306,Exabeam,2.4,01-06-2021,United States,Foster City,Cybersecurity,Norwest Venture Partners
+307,BitSight Technologies,2.4,13-09-2021,United States,Boston,Cybersecurity,Menlo Ventures
+308,Trumid,2.4,15-07-2020,United States,New York,Fintech,T. Rowe Price
+309,ABL Space Systems,2.4,25-03-2021,United States,El Segundo,Other,T. Rowe Price
+310,Bought By Many,2.35,01-06-2021,United Kingdom,London,Fintech,Octopus Ventures
+311,Jobandtalent,2.35,01-12-2021,Spain,Madrid,Internet software & services,Kibo Ventures
+312,WEMAKEPRICE,2.34,09-09-2015,South Korea,Seoul,E-commerce & direct-to-consumer,IMM Investment
+313,Biren Technology,2.32,18-08-2020,China,Shanghai,Hardware,V FUND
+314,Voodoo,2.31,17-08-2020,France,Paris,Other,Tencent Holdings
+315,Uptake,2.3,27-10-2015,United States,Chicago,Artificial intelligence,Revolution
+316,KeepTruckin,2.3,23-04-2019,United States,San Francisco,Supply chain logistics & delivery,Google Ventures
+317,Skydance Media,2.3,11-02-2020,United States,Santa Monica,Other,RedBird Capital Partners
+318,Greenlight,2.3,24-09-2020,United States,Atlanta,Fintech,Relay Ventures
+319,Highspot,2.3,22-02-2021,United States,Seattle,Internet software & services,Madrona Venture Group
+320,Bowery Farming,2.3,25-05-2021,United States,New York,Other,Temasek
+321,Odoo,2.3,29-07-2021,Belgium,Louvain-la-Neuve,Internet software & services,Summit Partners
+322,Zume,2.25,01-11-2018,United States,Mountain View,Consumer & retail,Softbank Group
+323,Algolia,2.25,28-07-2021,United States,San Francisco,Internet software & services,Accel
+324,Pattern,2.25,06-10-2021,United States,Lehi,Internet software & services,Knox Lane
+325,Planet Labs,2.2,13-04-2015,United States,San Francisco,Other,Threshold Ventures
+326,NuCom Group,2.2,22-02-2018,Germany,Unterfoehring,Other,General Atlantic
+327,MUSINSA,2.2,11-11-2019,South Korea,Seoul,E-commerce & direct-to-consumer,Sequoia Capital
+328,Current,2.2,27-04-2021,United States,New York,Fintech,Expa
+329,Bitso,2.2,05-05-2021,Mexico,Mexico City,Fintech,Pantera Capital
+330,Gympass,2.2,12-06-2019,United States,New York,Internet software & services,General Atlantic
+331,Kurly,2.2,09-07-2021,South Korea,Seoul,Supply chain logistics & delivery,Sequoia Capital China
+332,Reify Health,2.2,10-08-2021,United States,Boston,Health,Sierra Ventures
+333,Huaqin Telecom Technology,2.19,08-10-2019,China,Shanghai,Mobile & telecommunications,Zhangjiang Haocheng Venture Capital
+334,YITU Technology,2.17,08-03-2018,China,Shanghai,Artificial intelligence,Sequoia Capital China
+335,Addepar,2.17,15-06-2021,United States,Mountain View,Fintech,8VC
+336,Cockroach Labs,2.16,12-01-2021,United States,New York,Data management & analytics,Google Ventures
+337,Neo4j,2.15,17-06-2021,United States,San Mateo,Data management & analytics,Eight Roads Ventures
+338,1,2.15,08-09-2021,Brazil,Sao Paulo,Fintech,Plug and Play Ventures
+339,FirstCry,2.1,07-02-2020,India,Pune,E-commerce & direct-to-consumer,SoftBank Group
+340,Eightfold.ai,2.1,27-10-2020,United States,Santa Clara,Internet software & services,Foundation Capital
+341,Webflow,2.1,13-01-2021,United States,San Francisco,Internet software & services,Accel
+342,6Sense,2.1,30-03-2021,United States,San Francisco,Artificial intelligence,Venrock
+343,Urban Company,2.1,27-04-2021,India,Gurgaon,E-commerce & direct-to-consumer,VY Capital
+344,ReCharge,2.1,06-05-2021,United States,Los Angeles,Fintech,ICONIQ Growth
+345,Moveworks,2.1,30-06-2021,United States,Mountain View,Artificial intelligence,Lightspeed Venture Partners
+346,Medable,2.1,26-10-2021,United States,Palo Alto,Internet software & services,GSR Ventures
+347,SoundHound,2.1,03-05-2018,United States,Santa Clara,Artificial intelligence,Tencent Holdings
+348,Mambu,2.08,06-01-2021,Germany,Berlin,Fintech,Runa Capital
+349,Trendy Group International,2,13-02-2012,Hong Kong,Kowloon,Consumer & retail,L Capital Partners
+350,Avant,2,17-12-2012,United States,Chicago,Artificial intelligence,RRE Ventures
+351,Tubatu.com,2,09-03-2015,China,Shenzhen,E-commerce & direct-to-consumer,Sequoia Capital China
+352,BlaBlaCar,2,16-09-2015,France,Paris,Auto & transportation,Accel Partners
+353,Quanergy Systems,2,22-08-2016,United States,Sunnyvale,Auto & transportation,Delphi Automotive
+354,HuiMin,2,05-09-2016,China,Beijing,E-commerce & direct-to-consumer,Zheshang Venture Capital
+355,Quora,2,21-04-2017,United States,Mountain View,Internet software & services,Y Combinator
+356,Improbable,2,11-05-2017,United Kingdom,London,Other,Andreessen Horowitz
+357,Preferred Networks,2,17-05-2018,Japan,Tokyo,Artificial intelligence,Toyota Motor Corporation
+358,Formlabs,2,01-08-2018,United States,Somerville,Hardware,Pitango Venture Capital
+359,4Paradigm,2,19-12-2018,China,Beijing,Artificial intelligence,Sequoia Capital China
+360,Calm,2,06-02-2019,United States,San Francisco,Consumer & retail,Insight Venture Partners
+361,Kaseya,2,27-03-2019,United States,Miami,Cybersecurity,Insight Partners
+362,Mafengwo,2,23-05-2019,China,Beijing,Travel,Qiming Venture Partners
+363,Druva,2,20-06-2019,United States,Sunnyvale,Data management & analytics,Nexus Venture Partners
+364,Kujiale,2,25-10-2019,China,Hangzhou,Internet software & services,GGV Capital
+365,AppsFlyer,2,21-01-2020,United States,San Francisco,Mobile & telecommunications,Magma Venture Partners
+366,Keep,2,19-05-2020,China,Beijing,Mobile & telecommunications,Bertelsmann Asia Investments
+367,Redis Labs,2,25-08-2020,United States,Mountain View,Data management & analytics,Viola Ventures
+368,Xingyun Group,2,24-09-2020,China,Shenzhen,E-commerce & direct-to-consumer,Matrix Partners China
+369,Unqork,2,06-10-2020,United States,New York,Fintech,Blackrock
+370,Virta Health,2,02-12-2020,United States,San Francisco,Health,Caffeinated Capital
+371,ISN,2,17-12-2020,United States,Dallas,Supply chain logistics & delivery,Blackstone
+372,Earnix,2,21-02-2021,Israel,Giv'atayim,Fintech,Jerusalem Venture Partners
+373,Guoquan Shihui,2,17-03-2021,China,Shanghai,Consumer & retail,Tiantu Capital
+374,Arrail Dental,2,13-04-2021,China,Beijing,Health,Qiming Venture Partners
+375,Clearco,2,20-04-2021,Canada,Toronto,Fintech,Highland Capital Partners
+376,Hive,2,21-04-2021,United States,San Francisco,Artificial intelligence,Tomales Bay Capital
+377,KRY,2,27-04-2021,Sweden,Stockholm,Health,Index Ventures
+378,Kajabi,2,04-05-2021,United States,Irvine,Internet software & services,Meritech Capital Partners
+379,Ethos Technologies,2.7,11-05-2021,United States,San Francisco,Fintech,Sequoia Capital
+380,Beisen,2,11-05-2021,China,Beijing,Internet software & services,Matrix Partners China
+381,Pipe,2,19-05-2021,United States,Miami,Fintech,next47
+382,Iterable,2,15-06-2021,United States,San Francisco,Internet software & services,CRV
+383,Bunq,2,18-06-2021,Netherlands,Amsterdam,Fintech,Undisclosed
+384,Clip,2,10-06-2021,Mexico,Mexico City,Fintech,Alta Ventures Mexico
+385,Loggi,2,05-06-2019,Brazil,Sao Paulo,Supply chain logistics & delivery,Qualcomm Ventures
+386,MURAL,2,20-07-2021,United States,San Francisco,Internet software & services,Insight Partners
+387,Pagaya,2,17-06-2020,Israel,Tel Aviv,Fintech,Oak HC/FT Partners
+388,1Password,2,08-07-2021,Canada,Toronto,Cybersecurity,Slack Fund
+389,OCSiAl,2,04-03-2019,Luxembourg,Leudelange,Other,A&NN
+390,XtalPi,2,11-08-2021,China,Shenzhen,Artificial intelligence,Tencent Holdings
+391,Divvy Homes,2,13-08-2021,United States,San Francisco,Fintech,Andreessen Horowitz
+392,Apeel Sciences,2,26-05-2020,United States,Goleta,Other,Upfront Ventures
+393,Opay,2,23-08-2021,Nigeria,Lagos,Fintech,Sequoia Capital China
+394,Aviatrix,2,08-09-2021,Santa Clara,United States,Internet software & services,Ignition Partners
+395,SmartNews,2,05-08-2019,Japan,Tokyo,Mobile & telecommunications,Japan Post Capital
+396,Misfits Market,2,21-04-2021,United States,Pennsauken,E-commerce & direct-to-consumer,Accel
+397,Spring Health,2,16-09-2021,United States,New York,Health,Rethink Impact
+398,Black Sesame Technologies,2,22-09-2021,China,Shanghai,Artificial intelligence,Northern Light Venture Capital
+399,Advance Intelligence Group,2,23-09-2021,Singapore,Singapore,Artificial intelligence,Vision Plus Capital
+400,Modern Treasury,2,06-10-2021,United States,San Francisco,Fintech,Benchmark
+401,Magic Leap,2,21-10-2014,United States,Plantation,Hardware,Obvious Ventures
+402,Tier Mobility,2,25-10-2021,Germany,Berlin,Travel,Northzone Ventures
+403,Aiven,2,18-10-2021,Finland,Helsinki,Internet software & services,Institutional Venture Partners
+404,ClickHouse,2,28-10-2021,United States,Portola Valley,Data management & analytics,Lightspeed Venture Partners
+405,Mynt,2,28-10-2021,Philippines,Taguig City,Fintech,Insight Partners
+406,Everlaw,2,02-11-2021,United States,Oakland,Internet software & services,K9 Ventures
+407,Zilch,2,10-11-2021,United Kingdom,London,Fintech,Gauss Ventures
+408,VerbIT,2,08-06-2021,Israel,Tel Aviv,Artificial intelligence,ClalTech
+409,StarkWare,2,17-11-2021,Israel,Netanya,Cybersecurity,Sequoia Capital
+410,Netlify,2,17-11-2021,United States,San Francisco,Internet software & services,Andreessen Horowitz
+411,Deliverr,2,22-11-2021,United States,San Francisco,Supply chain logistics & delivery,8VC
+412,SWORD Health,2,22-11-2021,United States,New York,Health,Khosla Ventures
+413,LTK,2,22-11-2021,United States,Dallas,Internet software & services,SoftBank Group
+414,Fenbi Education,1.95,07-02-2021,China,Beijing,Edtech,Trustbridge Partners
+415,Starling Bank,1.95,08-03-2021,United Kingdom,London,Fintech,JTC Group
+416,InVision,1.9,01-11-2017,United States,New York,Internet software & services,FirstMark Capital
+417,eDaili,1.9,01-02-2019,China,Shanghai,E-commerce & direct-to-consumer,K2VC
+418,MX Technologies,1.9,13-01-2021,United States,Lehi,Fintech,Point72 Ventures
+419,Aledade,1.9,19-01-2021,United States,Bethesda,Health,Venrock
+420,CoinSwitch Kuber,1.9,06-10-2021,India,Bangalore,Fintech,Tiger Global Management
+421,ENOVATE,1.85,15-04-2019,China,Shanghai,Auto & transportation,Automobile Industry Guidance Fund
+422,CFGI,1.85,15-09-2021,United States,Boston,Fintech,The Carlyle Group
+423,Automattic,1.8,27-05-2013,United States,San Francisco,Internet software & services,Insight Venture Partners
+424,ZocDoc,1.8,20-08-2015,United States,New York,Health,Founders Fund
+425,Diamond Foundry,1.8,29-03-2021,United States,San Francisco,Other,Fashion Tech Lab
+426,FullStory,1.8,04-08-2021,United States,Atlanta,Internet software & services,Google Ventures
+427,Lightricks,1.8,31-07-2019,Israel,Jerusalem,Artificial intelligence,Viola Ventures
+428,Opentrons,1.8,23-09-2021,United States,New York,Hardware,SOSV
+429,AIWAYS,1.78,16-04-2018,China,Shanghai,Auto & transportation,Jiangsu Sha Steel Group
+430,Creditas,1.75,18-12-2020,Brazil,Sao Paulo,Fintech,Kaszek Ventures
+431,Trulioo,1.75,07-06-2021,Canada,Vancouver,Cybersecurity,Blumberg Capital
+432,Spinny,1.75,24-11-2021,India,Gurugram,E-commerce & direct-to-consumer,General Catalyst
+433,Orca Security,1.8,23-03-2021,Israel,Tel Aviv-Yafo,Cybersecurity,YL Ventures
+434,Cars24,1.84,24-11-2020,India,Gurgaon,E-commerce & direct-to-consumer,Moore Strategic Ventures
+435,Apus Group,1.73,16-01-2015,China,Beijing,Mobile & telecommunications,Redpoint Ventures
+436,Harry's Razor Company,1.7,16-02-2018,United States,New York,Consumer & retail,Thrive Capital
+437,Allbirds,1.7,11-10-2018,United States,San Francisco,E-commerce & direct-to-consumer,Lerer Hippeau Ventures
+438,PAX,1.7,22-10-2018,United States,San Francisco,Consumer & retail,Tao Capital Partners
+439,Harness,1.7,14-01-2021,United States,San Francisco,Artificial intelligence,Menlo Ventures
+440,DispatchHealth,1.7,03-03-2021,United States,Denver,Health,Alta Partners
+441,Unite Us,1.7,17-03-2021,United States,New York,Health,Insight Partners
+442,CircleCI,1.7,11-05-2021,United States,San Francisco,Internet software & services,Threshold Ventures
+443,GoStudent,1.7,22-06-2021,Austria,Vienna,Edtech,DN Capital
+444,Pleo,1.7,06-07-2021,Denmark,Copenhagen,Fintech,Creandum
+445,Wave,1.7,07-09-2021,Senegal,Dakar,Fintech,Stripe
+446,Vestiaire Collective,1.7,01-03-2021,France,Paris,E-commerce & direct-to-consumer,Eurazeo
+447,Dragos,1.7,28-10-2021,United States,Hanover,Cybersecurity,DataTribe
+448,Reltio,1.7,04-11-2021,United States,Redwood City,Data management & analytics,Crosslink Capital
+449,H2O.ai,1.7,07-11-2021,United States,Mountain View,Artificial intelligence,Nexus Venture Partners
+450,ZenBusiness,1.7,09-11-2021,United States,Austin,Fintech,Greycroft
+451,Alan,1.68,19-04-2021,France,Paris,Fintech,Index Ventures
+452,wefox,1.65,05-03-2019,Germany,Berlin,Fintech,Salesforce Ventures
+453,Hibob,1.65,12-10-2021,Israel,Tel Aviv,Internet software & services,Bessemer Venture Partners
+454,Trader Interactive,1.63,12-05-2021,United States,Norfolk,Other,Carsales
+455,Jusfoun Big Data,1.62,09-07-2018,China,Beijing,Data management & analytics,Boxin Capital
+456,Zhubajie,1.61,16-06-2015,China,Chongqing,Internet software & services,Cybernaut Growth Fund
+457,solarisBank,1.65,13-07-2021,Germany,Berlin,Fintech,Yabeo Capital
+458,Infinidat,1.6,29-04-2015,United States,Waltham,Hardware,TPG Growth
+459,Afiniti,1.6,14-04-2017,Bermuda,Hamilton,Artificial intelligence,GAM Holding
+460,Cao Cao Mobility,1.6,17-01-2018,China,Hangzhou,Auto & transportation,People Electrical Appliance Group China
+461,Verkada,1.6,29-01-2020,United States,San Mateo,Cybersecurity,next47
+462,ASR Microelectronics,1.6,30-04-2020,China,Shanghai,Hardware,Shenzhen Capital Group
+463,Clari,1.6,03-03-2021,United States,Sunnyvale,Internet software & services,Sequoia Capital
+464,Tonal,1.6,31-03-2021,United States,San Francisco,E-commerce & direct-to-consumer,Mayfield Fund
+465,Skims,1.6,09-04-2021,United States,Los Angeles,E-commerce & direct-to-consumer,Thrive Capital
+466,Clio,1.6,27-04-2021,Canada,Burnaby,Internet software & services,OMERS Private Equity
+467,SafetyCulture,1.6,03-05-2021,Australia,Sydney,Internet software & services,Blackbird Ventures
+468,Extend,1.6,18-05-2021,United States,San Francisco,Fintech,GreatPoint Ventures
+469,Cognite,1.6,19-05-2021,Norway,Lysaker,Data management & analytics,Technology Crossover Ventures
+470,ASAPP,1.6,19-05-2021,United States,New York,Artificial intelligence,March Capital Partners
+471,SmartHR,1.6,08-06-2021,Japan,Tokyo,Fintech,BEENEXT
+472,Mercury,1.6,03-07-2021,United States,San Francisco,Fintech,Andreessen Horowitz
+473,HomeLight,1.6,02-09-2021,United States,San Francisco,Fintech,Zeev Ventures
+474,Truepill,1.6,27-10-2021,United States,Hayward,Health,Initialized Capital
+475,Promasidor Holdings,1.59,08-11-2016,South Africa,Bryanston,Consumer & retail,IFC
+476,Baiwang,1.55,25-03-2019,China,Beijing,Fintech,Guozhong Venture Capital Management
+477,Iluvatar CoreX,1.55,01-03-2021,China,Shanghai,Hardware,Centurium Capital
+478,Wenheyou,1.55,17-04-2021,China,Hunan,Other,Sequoia Capital China
+479,Loom,1.53,20-05-2021,United States,San Francisco,Internet software & services,Kleiner Perkins Caufield & Byers
+480,Ximalaya FM,1.52,22-09-2017,China,Shanghai,Mobile & telecommunications,China Creation Ventures
+481,Carzone,1.52,01-03-2019,China,Jiangsu,E-commerce & direct-to-consumer,"Alibaba Group,Co-Stone Venture Capital"
+482,Mu Sigma,1.5,07-02-2013,United States,Northbrook,Data management & analytics,Sequoia Capital
+483,TuJia,1.5,17-06-2015,China,Beijing,Travel,GGV Capital
+484,Mofang Living,1.5,13-04-2016,China,Shanghai,E-commerce & direct-to-consumer,Warburg Pincus
+485,Gett,1.5,24-05-2016,Israel,Tel Aviv,Auto & transportation,Volkswagen
+486,DT Dream,1.5,08-06-2017,China,Hangzhou,Data management & analytics,Alibaba Group
+487,Changingedu,1.5,30-10-2017,China,Shanghai,Edtech,Trustbridge Partners
+488,XiaoZhu,1.5,01-11-2017,China,Beijing,Travel,Morningside Ventures
+489,JOLLY Information Technology,1.5,29-05-2018,China,Hangzhou,E-commerce & direct-to-consumer,Legend Capital
+490,Yijiupi,1.5,20-09-2018,China,Beijing,Consumer & retail,Source Code Capital
+491,Cambridge Mobile Telematics,1.5,19-12-2018,United States,Cambridge,Mobile & telecommunications,SoftBank Group
+492,Collective Health,1.5,17-06-2019,United States,San Francisco,Fintech,New Enterprise Associates
+493,Strava,1.5,16-11-2020,United States,San Francisco,Internet software & services,Jackson Square Ventures
+494,Zenoti,1.5,15-12-2020,United States,Bellevue,Internet software & services,Norwest Venture Partners
+495,K Health,1.5,19-01-2021,United States,New York,Health,Max Ventures
+496,Uplight,1.5,03-03-2021,United States,Boulder,Other,Rubicon Technology Partners
+497,ID.me,1.5,19-03-2021,United States,McLean,Cybersecurity,Moonshots Capital
+498,Handshake,1.5,12-05-2021,United States,San Francisco,Internet software & services,Kleiner Perkins Caufield & Byers
+499,Snapdocs,1.5,25-05-2021,United States,San Francisco,Fintech,Sequoia Capital
+500,Chipper Cash,2,01-06-2021,United States,San Francisco,Fintech,Deciens Capital
+501,Ledger,1.5,10-06-2021,France,Paris,Hardware,Digital Currency Group
+502,Next Silicon,1.5,14-06-2021,Israel,Tel Aviv,Hardware,Amiti Ventures
+503,YunQuNa,1.5,29-06-2021,China,Shanghai,Supply chain logistics & delivery,Source Code Capital
+504,dbt Labs,1.5,30-06-2021,United States,Philadelphia,Data management & analytics,Andreessen Horowitz
+505,Impact,1.5,13-07-2021,United States,Santa Barbara,Internet software & services,Redpoint Ventures
+506,OpenSea,1.5,20-07-2021,United States,New York,E-commerce & direct-to-consumer,Andreessen Horowitz
+507,SmartRecruiters,1.5,20-07-2021,United States,San Francisco,Internet software & services,Mayfield Fund
+508,NotCo,1.5,26-07-2021,Chile,Santiago,Artificial intelligence,Kaszek Ventures
+509,Culture Amp,1.5,29-07-2021,Australia,Richmond,Internet software & services,Felicis Ventures
+510,TaxBit,1.5,04-08-2021,United States,Draper,Fintech,Insight Partners
+511,Pacaso,1.5,24-03-2021,United States,Cincinnati,Fintech,Global Founders Capital
+512,1047 Games,1.5,14-09-2021,United States,Zephyr Cove,Internet software & services,VGames
+513,Matillion,1.5,15-09-2021,United Kingdom,Altrincham,Data management & analytics,Scale Venture Partners
+514,Persona,1.5,15-09-2021,United States,San Francisco,Cybersecurity,Coatue Management
+515,Whatnot,1.5,16-09-2021,United States,Marina del Rey,E-commerce & direct-to-consumer,Y Combinator
+516,Ascend Money,1.5,27-09-2021,Thailand,Bangkok,Fintech,Ant Group
+517,Andela,1.5,29-09-2021,United States,New York,Internet software & services,Spark Capital
+518,Built,1.5,30-09-2021,United States,Nashville,Internet software & services,Nyca Partners
+519,candy.com,1.5,21-10-2021,United States,New York,Fintech,Insight Partners
+520,Devo,1.5,26-10-2021,United States,Cambridge,Data management & analytics,Insight Partners
+521,CoinList,1.5,15-10-2021,United States,San Francisco,Fintech,Accomplice
+522,Lusha,1.5,10-11-2021,United States,New York,Internet software & services,PSG
+523,CureFit,1.5,10-11-2021,India,Bengaluru,Health,Chiratae Ventures
+524,Yipin Shengxian,1.49,11-03-2019,China,Hefei,E-commerce & direct-to-consumer,Eastern Bell Capital
+525,Bordrin Motors,1.48,03-06-2019,China,Shanghai,Auto & transportation,China Grand Prosperity Investment
+526,Coocaa,1.45,16-03-2018,China,Shenzhen,Hardware,Baidu
+527,Juma Peisong,1.45,26-11-2018,China,Chengdu,Supply chain logistics & delivery,Ding Xiang Capital
+528,Ouyeel,1.45,27-06-2019,China,Shanghai,Internet software & services,Taigang Venture Capital
+529,Gymshark,1.45,14-08-2020,United Kingdom,Solihull,E-commerce & direct-to-consumer,General Atlantic
+530,Zeta,1.45,24-05-2021,United States,San Francisco,Fintech,Sodexo Ventures
+531,M1 Finance,1.45,14-07-2021,United States,Chicago,Fintech,Left Lane Capital
+532,Justworks,1.43,28-01-2020,United States,New York,Internet software & services,Index Ventures
+533,SonderMind,1.42,28-07-2021,United States,Denver,Health,Kickstart Fund
+534,Papa,1.4,04-11-2021,United States,Miami,Health,Initialized Capital
+535,Koudai,1.4,23-10-2014,China,Beijing,E-commerce & direct-to-consumer,New Enterprise Associates
+536,Symphony,1.4,16-05-2017,United States,New York,Fintech,BNP Paribas
+537,Yidian Zixun,1.4,17-10-2017,China,Beijing,Mobile & telecommunications,Phoenix New Media
+538,Cabify,1.4,22-01-2018,Spain,Madrid,Auto & transportation,Seaya Ventures
+539,Hive Box,1.4,23-01-2018,China,Shenzhen,Supply chain logistics & delivery,Eastern Bell Capital
+540,Deezer,1.4,02-08-2018,France,Paris,Internet software & services,Orange Digital Ventures
+541,Away,1.4,15-05-2019,United States,New York,E-commerce & direct-to-consumer,Global Founders Capital
+542,Kong,1.4,31-12-2020,United States,San Francisco,Internet software & services,New Enterprise Associates
+543,Epidemic Sound,1.4,11-03-2021,Sweden,Stockholm,Internet software & services,EQT Partners
+544,Yotpo,1.4,18-03-2021,United States,New York,Internet software & services,Bessemer Venture Partners
+545,Rebel Foods,1.4,07-10-2021,India,Pune,E-commerce & direct-to-consumer,Sequoia Capital India
+546,Coda,1.4,08-07-2021,United States,Mountain View,Internet software & services,Greylock Partners
+547,Five Star Business Finance,1.4,26-03-2021,India,Chennai,Other,Sequoia Capital India
+548,Stash,1.4,03-02-2021,United States,New York,Fintech,Goodwater Capital
+549,Phenom People,1.4,07-04-2021,United States,Ambler,Internet software & services,Sierra Ventures
+550,GupShup,1.4,08-04-2021,United States,San Francisco,Internet software & services,Helion Venture Partners
+551,Degreed,1.4,13-04-2021,United States,Pleasanton,Edtech,Signal Peak Ventures
+552,Astranis Space Technologies,1.4,14-04-2021,United States,San Francisco,Mobile & telecommunications,Refactor Capital
+553,ChargeBee Technologies,1.4,20-04-2021,United States,Walnut,Fintech,Insight Partners
+554,Scalable Capital,1.4,08-06-2021,Germany,Munich,Fintech,BlackRock
+555,VideoAmp,1.4,21-10-2021,United States,Los Angeles,Internet software & services,Simon Equity Partners
+556,Panther Labs,1.4,02-12-2021,United States,San Francisco,Cybersecurity,Innovation Endeavors
+557,Veepee,1.38,20-07-2007,France,La Plaine Saint-Denis,E-commerce & direct-to-consumer,Summit Partners
+558,DeepBlue Technology,1.35,16-04-2018,China,Shanghai,Artificial intelligence,DESUN Capital
+559,Klook,1.35,07-08-2018,Hong Kong,Central,Travel,Sequoia Capital China
+560,Yaoshibang,1.35,15-06-2021,China,Guangzhou,Health,Green Pine Capital Partners
+561,At-Bay,1.35,27-07-2021,United States,Mountain View,Fintech,Lightspeed Venture Partners
+562,Alloy,1.35,30-09-2021,United States,New York,Fintech,Bessemer Venture Partners
+563,Signifyd,1.34,15-04-2021,United States,San Jose,Fintech,Menlo Ventures
+564,Motorway,1.33,29-11-2021,United Kingdom,London,E-commerce & direct-to-consumer,Marchmont Ventures
+565,Flipboard,1.32,22-07-2015,United States,Palo Alto,Internet software & services,Kleiner Perkins Caufield & Byers
+566,Grove Collaborative,1.32,06-09-2019,United States,San Francisco,E-commerce & direct-to-consumer,MHS Capital
+567,GPclub,1.32,22-10-2018,South Korea,Seoul,Other,Goldman Sachs
+568,Tongdun Technology,1.32,25-04-2019,China,Hangzhou,Cybersecurity,Advantech Capital
+569,Alzheon,1.31,30-09-2020,United States,Framingham,Health,ARCH Venture Partners
+570,HeartFlow,1.3,04-12-2017,United States,Redwood City,Health,BlueCross BlueShield Venture Partners
+571,Sonder,1.3,11-07-2019,United States,San Francisco,Travel,Structure Capital
+572,Trax,1.3,22-07-2019,Singapore,Singapore,Artificial intelligence,Hopu Investment Management
+573,You & Mr Jones,1.3,19-11-2019,United States,New York,Other,Undisclosed
+574,InSightec,1.3,06-03-2020,Israel,Tirat Carmel,Health,York Capital Management
+575,Everly Health,1.3,03-12-2020,United States,Austin,E-commerce & direct-to-consumer,Highland Capital Partners
+576,Manner,1.3,24-12-2020,China,Shanghai,Other,Coatue Management
+577,TalkingData,1.3,06-01-2021,China,Beijing,Mobile & telecommunications,N5 Capital
+578,Innovaccer,1.3,19-02-2021,United States,San Francisco,Health,M12
+579,DistroKid,1.3,16-08-2021,United States,New York,Internet software & services,Insight Partners
+580,Carsome,1.3,12-07-2021,Malaysia,Selangor,E-commerce & direct-to-consumer,Gobi Partners
+581,Konfio,1.3,29-09-2021,Mexico,Mexico City,Fintech,Kaszek Ventures
+582,Betterment,1.3,29-09-2021,United States,New York,Fintech,Bessemer Venture Partners
+583,Flock Freight,1.3,20-10-2021,United States,Encinitas,Supply chain logistics & delivery,SignalFire
+584,YugaByte,1.3,28-10-2021,United States,Sunnyvale,Data management & analytics,Lightspeed Venture Partners
+585,Starry,1.29,03-07-2018,United States,Boston,Mobile & telecommunications,Social Capital
+586,Intercom,1.28,27-03-2018,United States,San Francisco,Internet software & services,FirstMark Capital
+587,OVO Energy,1.28,14-02-2019,United Kingdom,Bristol,Other,Mitsubishi Corporation
+588,Huisuanzhang,1.28,24-05-2021,China,Beijing,Fintech,IDG Capital
+589,WTOIP,1.27,08-04-2018,China,Guangzhou,Internet software & services,Dark Horse Technology Group
+590,ezCater,1.25,02-04-2019,United States,Boston,Supply chain logistics & delivery,Insight Venture Partners
+591,BigID,1.25,16-12-2020,United States,New York,Cybersecurity,BOLDstart Ventures
+592,Rec Room,1.25,23-03-2021,United States,Seattle,Internet software & services,First Round Capital
+593,Kuaikan Manhua,1.25,01-12-2017,China,Beijing,Internet software & services,Sequoia Capital China
+594,Marshmallow,1.25,08-09-2021,United Kingdom,London,Fintech,Passion Capital
+595,Honor Technology,1.25,05-10-2021,United States,San Francisco,Internet software & services,Andreessen Horowitz
+596,Mythical Games,1.25,04-11-2021,United States,Sherman Oaks,Internet software & services,Javelin Venture Partners
+597,Incode Technologies,1.25,07-12-2021,United States,San Francisco,Cybersecurity,Dila Capital
+598,BrewDog,1.24,10-04-2017,United Kingdom,Aberdeen,Consumer & retail,TSG Consumer Partners
+599,Enflame,1.24,05-01-2021,China,Shanghai,Hardware,Tencent Holdings
+600,EQRx,1.23,11-01-2021,United States,Cambridge,Health,Nextech Invest
+601,Nexii,1.23,08-09-2021,Canada,Vancouver,Other,Trane Technologies
+602,BlockDaemon,1.23,21-09-2021,United States,Los Angeles,Fintech,BOLDstart Ventures
+603,GalaxySpace,1.22,17-11-2020,China,Beijing,Mobile & telecommunications,Shunwei Capital Partners
+604,Spiber,1.22,08-09-2021,Japan,Tsuruoka,Other,Cool Japan Fund
+605,Yiguo,1.2,09-11-2016,China,Shanghai,Supply chain logistics & delivery,Alibaba Group
+606,Fair,1.2,20-12-2018,United States,Santa Monica,Auto & transportation,CreditEase Fintech Investment Fund
+607,Glossier,1.2,19-03-2019,United States,New York,Consumer & retail,Forerunner Ventures
+608,Workhuman,1.2,23-06-2020,Ireland,Dublin,Internet software & services,ICG
+609,Qumulo,1.2,16-07-2020,United States,Seattle,Data management & analytics,Madrona Venture Group
+610,Dialpad,1.2,06-10-2020,United States,San Francisco,Internet software & services,Andreessen Horowitz
+611,Starburst,1.2,06-01-2021,United States,Boston,Data management & analytics,Index Ventures
+612,Tealium,1.2,03-02-2021,United States,San Diego,Internet software & services,Georgian Partners
+613,Public,1.2,17-02-2021,United States,New York,Fintech,Accel
+614,Axonius,1.2,01-03-2021,United States,New York,Cybersecurity,Vertex Ventures Israel
+615,Savage X Fenty,1.2,16-03-2021,United States,El Segundo,E-commerce & direct-to-consumer,Speedinvest
+616,Pipa Coding,1.2,25-03-2021,China,Beijing,Edtech,Source Code Capital
+617,Pilot.com,1.2,26-03-2021,United States,San Francisco,Fintech,Index Ventures
+618,Aibee,1.2,13-04-2021,China,Beijing,Artificial intelligence,Sequoia Capital China
+619,Cava Group,1.3,27-04-2021,United States,Washington,Other,SWaN & Legend Ventures
+620,Vectra Networks,1.2,29-04-2021,United States,San Jose,Artificial intelligence,IA Ventures
+621,Ada Support,1.2,07-05-2021,Canada,Toronto,Artificial intelligence,Version One Ventures
+622,Inari,1.2,12-05-2021,United States,Cambridge,Other,Flagship Pioneering
+623,Project44,1.2,01-06-2021,United States,Chicago,Supply chain logistics & delivery,Emergence Capital Partners
+624,Alation,1.2,03-06-2021,United States,Redwood City,Internet software & services,Costanoa Ventures
+625,Forto,1.2,21-06-2021,Germany,Berlin,Supply chain logistics & delivery,Cherry Ventures
+626,SmartMore,1.2,24-06-2021,China,Shenzhen,Artificial intelligence,IDG Capital
+627,Rohlik,1.2,01-07-2021,Czech Republic,Prague,Supply chain logistics & delivery,Partech Partners
+628,Prime Medicine,1.2,13-07-2021,United States,Cambridge,Health,Newpath Partners
+629,FloQast,1.2,21-07-2021,United States,Los Angeles,Fintech,Polaris Partners
+630,MindTickle,1.2,03-08-2021,United States,San Francisco,Internet software & services,Qualcomm Ventures
+631,UpGrad,1.2,09-08-2021,India,Mumbai,Edtech,Qualcomm Ventures
+632,DailyPay,1.2,18-05-2021,United States,New York,Fintech,RPM Ventures
+633,Oda,1.2,02-06-2021,Norway,Oslo,E-commerce & direct-to-consumer,Kinnevik
+634,Offchain Labs,1.2,31-08-2021,United States,Princeton,Internet software & services,Pantera Capital
+635,Copado,1.2,13-09-2021,Spain,Madrid,Data management & analytics,Insight Partners
+636,Gem,1.2,28-09-2021,United States,San Francisco,Internet software & services,Accel
+637,CarDekho,1.2,13-10-2021,India,Jaipur,E-commerce & direct-to-consumer,Sequoia Capital India
+638,MyGlamm,1.2,10-11-2021,India,Mumbai,E-commerce & direct-to-consumer,L'Occitane
+639,AgentSync,1.2,07-12-2021,United States,Denver,Fintech,Craft Ventures
+640,Pristyn Care,1.2,07-12-2021,India,Gurugram,Health,Sequoia Capital India
+641,Jokr,1.2,02-12-2021,United States,New York,E-commerce & direct-to-consumer,GGV Capital
+642,L&P Cosmetic,1.19,01-01-2016,South Korea,Seoul,Consumer & retail,CDIB Capital
+643,Unisound,1.19,19-07-2018,China,Beijing,Artificial intelligence,Qiming Venture Partners
+644,Mininglamp Technology,1.19,27-03-2019,China,Beijing,Artificial intelligence,Russia-China Investment Fund
+645,Sysdig,1.19,28-04-2021,United States,San Francisco,Cybersecurity,Accel
+646,Luoji Siwei,1.18,20-07-2017,China,Beijing,Edtech,Sequoia Capital China
+647,Yimidida,1.17,14-01-2019,China,Shanghai,Supply chain logistics & delivery,Source Code Capital
+648,Modern Health,1.17,11-02-2021,United States,San Francisco,Health,Kleiner Perkins Caufield & Byers
+649,IRL,1.17,15-06-2021,United States,San Francisco,Internet software & services,Goodwater Capital
+650,Tuhu,1.16,15-09-2018,China,Shanghai,Auto & transportation,Qiming Venture Partners
+651,SVOLT Energy,1.16,08-06-2020,China,Changzhou,Auto & transportation,IDG Capital
+652,LifeMiles,1.15,13-07-2015,Colombia,Bogota,Other,Advent International
+653,Venafi,1.15,10-12-2020,United States,Salt Lake City,Cybersecurity,Pelion Venture Partners
+654,Guideline,1.15,16-06-2021,United States,San Mateo,Fintech,Pelion Venture Partners
+655,Rebellion Defense,1.15,16-09-2021,United States,Washington DC,Artificial intelligence,Venrock
+656,Elemy,1.15,06-10-2021,United States,San Francisco,Health,General Catalyst
+657,Doctolib,1.14,19-03-2019,France,Paris,Health,BPI France
+658,STORD,1.13,13-09-2021,United States,Atlanta,Supply chain logistics & delivery,Dynamo VC
+659,TELD,1.12,16-12-2019,China,Qingdao,Fintech,China Reform Fund
+660,TangoMe,1.1,20-03-2014,United States,Mountain View,Mobile & telecommunications,Draper Fisher Jurtson
+661,AppDirect,1.1,07-10-2015,United States,San Francisco,E-commerce & direct-to-consumer,Mithril
+662,Juanpi,1.1,14-04-2016,China,Wuhan,E-commerce & direct-to-consumer,Tiantu Capital
+663,OVH,1.1,15-08-2016,France,Roubaix,Other,KKR
+664,Eat Just,1.1,30-11-2017,United States,San Francisco,Consumer & retail,Khosla Ventures
+665,GetYourGuide,1.1,16-05-2019,Germany,Berlin,Travel,Spark Capital
+666,Ivalua,1.1,21-05-2019,United States,Redwood City,Fintech,Ardian
+667,Sisense,1.1,09-01-2020,United States,New York,Data management & analytics,Opus Capital
+668,Course Hero,1.1,12-02-2020,United States,Redwood City,Edtech,NewView Capital
+669,Pharmapacks,1.1,12-11-2020,United States,Islandia,E-commerce & direct-to-consumer,The Carlyle Group
+670,SalesLoft,1.1,06-01-2021,United States,Atlanta,Internet software & services,Caffeinated Capital
+671,Sennder,1.1,14-01-2021,Germany,Berlin,Supply chain logistics & delivery,Accelm Scania Growth Capital
+672,Nexthink,1.1,08-02-2021,Switzerland,Prilly,Data management & analytics,Auriga
+673,Zego,1.1,09-03-2021,United Kingdom,London,Fintech,LocalGlobe
+674,Rightway,1.1,30-03-2021,United States,New York,Health,Thrive Capital
+675,Sunbit,1.1,20-05-2021,United States,Los Angeles,Fintech,Zeev Ventures
+676,Qingting FM,1.1,02-06-2021,China,Shanghai,Internet software & services,China Culture Industrial Investment Fund
+677,Amber Group,1.1,21-06-2021,Hong Kong,Hong Kong,Fintech,Tiger Global Management
+678,G2,1.1,22-06-2021,United States,Chicago,Internet software & services,Pritzker Group Venture Capital
+679,Hailo,1,23-06-2021,Israel,Tel Aviv,Artificial intelligence,Glory Ventures
+680,People.ai,1.1,11-08-2021,United States,San Francisco,Internet software & services,GGV Capital
+681,CoinDCX,1.1,10-08-2021,India,Maharashtra,Fintech,Polychain Capital
+682,Carousell,1.1,15-09-2021,Singapore,Singapore,E-commerce & direct-to-consumer,500 Global
+683,apna,1.1,15-09-2021,India,Bengaluru,Internet software & services,Sequoia Capital India
+684,Karat,1.1,13-10-2021,United States,Seattle,Internet software & services,8VC
+685,Enpal,1.1,18-10-2021,Germany,Berlin,Internet software & services,HV Capital
+686,Acko General Insurance,1.1,18-10-2021,India,Bengaluru,Fintech,Intact Ventures
+687,Daily Harvest,1.1,16-11-2021,United States,New York,E-commerce & direct-to-consumer,M13
+688,The Bank of London,1.1,30-11-2021,United Kingdom,London,Fintech,"Mangrove Capital Partners,14W. ForgeLight"
+689,Fundbox,1.1,30-11-2021,United States,San Francisco,Fintech,Khosla Ventures
+690,Nxin,1.08,18-09-2018,China,Beijing,Internet software & services,Beijing Juneng Hesheng Industry Investment Fund
+691,UISEE Technology,1.08,25-01-2021,China,Beijing,Supply chain logistics & delivery,Shenzhen Capital Group
+692,56PINGTAI,1.08,25-01-2021,China,Shanghai,Supply chain logistics & delivery,QF Capital
+693,Rubicon Global,1.07,25-08-2017,United States,Atlanta,Other,Goldman Sachs
+694,Radius Payment Solutions,1.07,27-11-2017,United Kingdom,Crewe,Fintech,Inflexion Private Equity
+695,Rivigo,1.07,11-07-2019,India,Gurgaon,Supply chain logistics & delivery,SAIF Partners India
+696,Jiuxian,1.05,30-07-2015,China,Beijing,E-commerce & direct-to-consumer,Sequoia Capital China
+697,Instabase,1.05,21-10-2019,United States,San Francisco,Data management & analytics,New Enterprise Associates
+698,Hesai Tech,1.05,01-08-2020,China,Shanghai,Artificial intelligence,Lightspeed China Partners
+699,Proterra,1.05,15-10-2020,United States,Burlingame,Supply chain logistics & delivery,GM Ventures
+700,Sendbird,1.05,06-04-2021,United States,San Mateo,Mobile & telecommunications,FundersClub
+701,Density,1.05,10-11-2021,United States,San Francisco,Hardware,Founders Fund
+702,Mixpanel,1.05,15-11-2021,United States,San Francisco,Internet software & services,Bain Capital Tech Opportunities
+703,Aprogen,1.04,31-05-2019,South Korea,Seongnam-Si,Health,Lindeman Asia Investment
+704,OrCam Technologies,1.03,20-02-2018,Israel,Jerusalem,Artificial intelligence,Intel Capital
+705,Leap Motor,1.01,20-11-2018,China,Hangzhou,Auto & transportation,Sequoia Capital China
+706,Lookout,1,10-10-2013,United States,San Francisco,Cybersecurity,Accel Partners
+707,Snapdeal,1,21-05-2014,India,New Delhi,E-commerce & direct-to-consumer,SoftBankGroup
+708,TechStyle Fashion Group,1,29-08-2014,United States,El Segundo,E-commerce & direct-to-consumer,Matrix Partners
+709,InMobi,1,02-12-2014,India,Bengaluru,Mobile & telecommunications,Kleiner Perkins Caufield & Byers
+710,LinkSure Network,1,01-01-2015,China,Shanghai,Mobile & telecommunications,Haitong Kaiyuan Investment
+711,Red Ventures,1,07-01-2015,United States,Fort Mill,Other,Silver Lake Partners
+712,BeiBei,1,22-01-2015,China,Hangzhou,E-commerce & direct-to-consumer,Banyan Capital
+713,Lamabang,1,06-03-2015,China,Shenzhen,E-commerce & direct-to-consumer,5Y Capital
+714,JimuBox,1,21-04-2015,China,Beijing,Fintech,Matrix Partners China
+715,BenevolentAI,1,02-06-2015,United Kingdom,London,Artificial intelligence,Woodford Investment Management
+716,FXiaoKe,1,02-07-2015,China,Beijing,Mobile & telecommunications,IDG Capital
+717,Vox Media,1,12-08-2015,United States,Washington,Internet software & services,Accel Partners
+718,Mia.com,1,08-09-2015,China,Beijing,E-commerce & direct-to-consumer,Sequoia Capital China
+719,58 Daojia,1,12-10-2015,China,Beijing,Internet software & services,KKR
+720,Womai,1,12-10-2015,China,Beijing,E-commerce & direct-to-consumer,SAIF Partners China
+721,HuJiang,1,29-10-2015,China,Shanghai,Edtech,China Minsheng Investment
+722,iTutorGroup,1,18-11-2015,China,Shanghai,Edtech,QiMing Venture Partners
+723,MindMaze,1,28-01-2016,Switzerland,Lausanne,Health,Hinduja Group
+724,iCarbonX,1,12-04-2016,China,Shenzhen,Artificial intelligence,Tencent
+725,SMS Assist,1,07-06-2016,United States,Chicago,Internet software & services,Goldman Sachs
+726,Kendra Scott,1,21-12-2016,United States,Austin,Consumer & retail,Berkshire Partners
+727,Mobvoi,1,06-04-2017,China,Beijing,Consumer & retail,Sequoia Capital China
+728,Zhuan Zhuan,1,18-04-2017,China,Beijing,E-commerce & direct-to-consumer,58.com
+729,Modernizing Medicine,1,10-05-2017,United States,Boca Raton,Health,Warburg Pincus
+730,Zhaogang,1,29-06-2017,China,Shanghai,E-commerce & direct-to-consumer,K2 Ventures
+731,DianRong,1,02-08-2017,China,Shanghai,E-commerce & direct-to-consumer,Standard Chartered
+732,Cell C,1,07-08-2017,South Africa,Midrand,Mobile & telecommunications,Blue Label Telecoms
+733,YH Global,1,21-09-2017,China,Shenzhen,Supply chain logistics & delivery,Co-Energy Finance
+734,Revolution Precrafted,1,23-10-2017,Philippines,Manila,Other,K2 Global
+735,WeLab,1,08-11-2017,Hong Kong,Hong Kong,Fintech,Sequoia Capital China
+736,Maimai,1,15-11-2017,China,Beijing,Mobile & telecommunications,Morningside Venture Capital
+737,Dxy.cn,1,10-04-2018,China,Hangzhou,Health,Tencent Holdings
+738,Orbbec Technology,1,21-05-2018,China,Shenzhen,Hardware,R-Z Capital
+739,HMD Global,1,21-05-2018,Finland,Espoo,Mobile & telecommunications,Ginko Ventures
+740,Huike Group,1,24-05-2018,China,Beijing,Edtech,Fosun RZ Capital
+741,China Cloud,1,11-06-2018,China,Wuxi,Hardware,V Star Capital
+742,LinkDoc Technology,1,05-07-2018,China,Beijing,Health,China Investment Corporation
+743,MediaMath,1,10-07-2018,United States,New York,Internet software & services,Silicon Valley Bank
+744,Movile,1,12-07-2018,Brazil,Sao Paulo,Mobile & telecommunications,Innova Capital - FIP
+745,Kuaigou Dache,1,13-07-2018,China,Tianjin,Supply chain logistics & delivery,Sequoia Capital China
+746,Pat McGrath Labs,1,16-07-2018,United States,New York,Consumer & retail,One Luxury Group
+747,Wacai,1,18-07-2018,China,Hangzhou,Mobile & telecommunications,Qiming Venture Partners
+748,Medlinker,1,31-07-2018,China,Chengdu,Health,China Health Industry Investment Fund
+749,FlashEx,1,27-08-2018,China,Beijing,Supply chain logistics & delivery,Prometheus Capital
+750,Branch,1,10-09-2018,United States,Redwood City,Mobile & telecommunications,New Enterprise Associates
+751,Banma Network Technologies,1,13-09-2018,China,Shanghai,Auto & transportation,Yunfeng Capital
+752,Tresata,1,10-10-2018,United States,Charlotte,Fintech,GCP Capital Partners
+753,Momenta,1,17-10-2018,China,Beijing,Artificial intelligence,Sinovation Ventures
+754,Hosjoy,1,18-10-2018,China,Nanjing,E-commerce & direct-to-consumer,U.S.-China Green Fund
+755,Omio,1,23-10-2018,Germany,Berlin,Travel,Lakestar
+756,TERMINUS Technology,1,25-10-2018,China,Beijing,Hardware,China Everbright Limited
+757,BitFury,1,06-11-2018,Netherlands,Amsterdam,Hardware,Georgian Co-Investment Fund
+758,iFood,1,13-11-2018,Brazil,Osasco,Supply chain logistics & delivery,Movile
+759,Geek+,1,21-11-2018,China,Beijing,Hardware,Volcanics Ventures
+760,REEF Technology,1,10-12-2018,United States,Miami,Supply chain logistics & delivery,Target Global
+761,Globality,1,22-01-2019,United States,Menlo Park,Artificial intelligence,SoftBank Group
+762,Ynsect,1,21-02-2019,France,Evry,Other,Astanor Ventures
+763,Intellifusion,1,22-03-2019,China,Shenzhen,Artificial intelligence,BOC International
+764,Liquid,1,03-04-2019,Japan,Tokyo,Fintech,JAFCO Co
+765,Poizon,1,29-04-2019,China,Shanghai,Mobile & telecommunications,DST Global
+766,VTS,1,07-05-2019,United States,New York,Internet software & services,Trinity Ventures
+767,SITECH DEV,1,16-05-2019,China,Guiyang,Other,China Prosperity Capital
+768,KnowBox,1,30-05-2019,China,Beijing,Edtech,TAL Education Group
+769,Yanolja,1,10-06-2019,South Korea,Seoul,Travel,SBI Investment Korea
+770,Meero,1,18-06-2019,France,Paris,Artificial intelligence,Aglae Ventures
+771,SumUp,1,16-07-2019,United Kingdom,London,Fintech,American Express Ventures
+772,Ibotta,1,06-08-2019,United States,Denver,Fintech,Koch Disruptive Technologies
+773,C2FO,1,07-08-2019,United States,Leawood,Fintech,Union Square Ventures
+774,Numbrs,1,22-08-2019,Switzerland,Zurich,Fintech,Investment Corporation of Dubai
+775,Dave,1,30-09-2019,United States,Los Angeles,Fintech,Section 32
+776,EBANX,1,16-10-2019,Brazil,Curitiba,Fintech,FTV Capital
+777,KK Group,3,23-10-2019,China,Dongguan,E-commerce & direct-to-consumer,Matrix Partners China
+778,Glovo,1,19-12-2019,Spain,Barcelona,Supply chain logistics & delivery,IDInvest Partners
+779,Alto Pharmacy,1,30-01-2020,United States,San Francisco,Health,Jackson Square Ventures
+780,o9 Solutions,1,28-04-2020,United States,Dallas,Artificial intelligence,KKR
+781,Hotmart,1,17-03-2020,Netherlands,Amsterdam,E-commerce & direct-to-consumer,Technology Crossover Ventures
+782,Emerging Markets Property Group,1,28-04-2020,United Arab Emirates,Dubai,Other,OLX Group
+783,Quizlet,1,13-05-2020,United States,San Francisco,Edtech,Union Square Ventures
+784,Orca Bio,1,17-06-2020,United States,Menlo Park,Health,Lightspeed Venture Partners
+785,Newlink Group,1,10-07-2020,China,Beijing,E-commerce & direct-to-consumer,JOY Capital
+786,Infobip,1,30-07-2020,Croatia,Vodnjan,Mobile & telecommunications,One Equity Partners
+787,Zwift,1,16-09-2020,United States,Long Beach,E-commerce & direct-to-consumer,Novator Partners
+788,Playco,1,21-09-2020,Japan,Tokyo,Other,Sozo Ventures
+789,Socar,1,16-10-2020,South Korea,Jeju-do,Auto & transportation,Bain Capital
+790,Gousto,1,03-11-2020,United Kingdom,London,Supply chain logistics & delivery,MMC Ventures
+791,AInnovation,1,16-12-2020,China,Beijing,Artificial intelligence,CICC ALPHA
+792,Boom Supersonic,1,16-12-2020,United States,Englewood,Other,WRVI Capital
+793,Qualia,1,21-12-2020,United States,San Francisco,Fintech,8VC
+794,DailyHunt,1,22-12-2020,India,Bengaluru,Internet software & services,Falcon Edge Capital
+795,Dremio,1,06-01-2021,United States,Santa Clara,Data management & analytics,Lightspeed Venture Partners
+796,Quantum Metric,1,07-01-2021,United States,Colorado Springs,Data management & analytics,Insight Partners
+797,News Break,1,07-01-2021,United States,Mountain View,Internet software & services,IDG Capital
+798,MadeiraMadeira,1,07-01-2021,Brazil,Parana,E-commerce & direct-to-consumer,Flybridge Capital Partners
+799,PPRO,1,19-01-2021,United Kingdom,London,Fintech,Wellington Management
+800,Splashtop,1,27-01-2021,United States,San Jose,Internet software & services,Storm Ventures
+801,DriveNets,1,27-01-2021,Israel,Ra'anana,Internet software & services,Bessemer Venture Partners
+802,Flash Express,1,01-02-2021,Thailand,Bangkok,Supply chain logistics & delivery,SCB 10X
+803,Axiom Space,1,16-02-2021,United States,Houston,Other,C5 Capital
+804,Locus Robotics,1,17-02-2021,United States,Wilmington,Hardware,Scale Venture Partners
+805,Standard Cognition,1,17-02-2021,United States,San Francisco,Artificial intelligence,CRV
+806,Sentry,1,18-02-2021,United States,San Francisco,Other,New Enterprise Associates
+807,WeBull,1,18-02-2021,China,Changsha,Fintech,Bojiang Capital
+808,Skydio,1,25-02-2021,United States,Redwood City,Supply chain logistics & delivery,Andreessen Horowitz
+809,Newsela,1,25-02-2021,United States,New York,Internet software & services,Owl Ventures
+810,Flutterwave,1,09-03-2021,United States,San Francisco,Fintech,Green Visor Capital
+811,Aqua Security,1,10-03-2021,Israel,Ramat Gan,Cybersecurity,TLV Partners
+812,PatSnap,1,16-03-2021,Singapore,Singapore,Internet software & services,Sequoia Capital China
+813,Evidation,1,22-03-2021,United States,San Mateo,Health,"B Capital Group,"
+814,Sidecar Health,1,26-01-2021,United States,El Segundo,Fintech,GreatPoint Ventures
+815,Lattice,1,23-03-2021,United States,San Francisco,Internet software & services,Khosla Ventures
+816,Feedzai,1,24-03-2021,United States,San Mateo,Artificial intelligence,Global Founders Capital
+817,Yunxuetang,1,29-03-2021,China,Suzhou,Edtech,Matrix Partners China
+818,Cameo,1,30-03-2021,United States,Chicago,Internet software & services,Lightspeed Venture Partners
+819,Fetch Rewards,1,31-03-2021,United States,Madison,E-commerce & direct-to-consumer,Greycroft
+820,Hyperchain,1,11-04-2021,China,Hangzhou,Fintech,Yinhong Equity Investment Fund
+821,The Zebra,1,12-04-2021,United States,Austin,E-commerce & direct-to-consumer,Silverton Partners
+822,Clearcover,1,13-04-2021,United States,Chicago,Fintech,American Family Ventures
+823,Groq,1,14-04-2021,United States,Mountain View,Artificial intelligence,TDK Ventures
+824,Fiture,1,14-04-2021,China,Chengdu,Health,Bertelsmann Asia Investments
+825,Injective Protocol,1,20-04-2021,United States,New York,Fintech,Pantera Capital
+826,Sift,1,22-04-2021,United States,San Francisco,Artificial intelligence,Union Square Ventures
+827,SaltPay,1,23-04-2021,United Kingdom,London,Fintech,Tiger Global Management
+828,Capsule,1,28-04-2021,United States,New York,Health,Thrive Capital
+829,MOLOCO,1.5,29-04-2021,United States,Redwood City,Artificial intelligence,Smilegate Investment
+830,Mux,1,30-04-2021,United States,San Francisco,Internet software & services,Accel
+831,XForcePlus,1,01-06-2021,China,Shanghai,Internet software & services,Eastern Bell Capital
+832,Firefly Aerospace,1,04-05-2021,United States,Cedar Park,Other,XBTO Ventures
+833,HoneyBook,1.1,04-05-2021,United States,San Francisco,Internet software & services,Norwest Venture Partners
+834,Shift Technology,1,05-05-2021,France,Paris,Artificial intelligence,Griffin Gaming Partners
+835,TensTorrent,1,05-05-2021,Canada,Toronto,Artificial intelligence,Eclipse Ventures
+836,Zihaiguo,1,06-05-2021,China,Chongqing,Consumer & retail,Xingwang Investment Management
+837,Forte Labs,1,12-05-2021,United States,San Francisco,Fintech,Iris Capital
+838,Axtria,1,13-05-2021,United States,Berkeley Heights,Data management & analytics,Helion Venture Partners
+839,Amount,1,17-05-2021,United States,Chicago,Fintech,Invus Group
+840,Moglix,1,17-05-2021,Singapore,Singapore,E-commerce & direct-to-consumer,Jungle Ventures
+841,Vise,1,18-05-2021,United States,New York,Fintech,Sequoia Capital
+842,Printful,1,24-05-2021,United States,Charlotte,Other,Bregal Sagemount
+843,Matrixport,1,01-06-2021,Singapore,Singapore,Fintech,Dragonfly Captial
+844,Shippo,1,02-06-2021,United States,San Francisco,Supply chain logistics & delivery,Version One Ventures
+845,Thirty Madison,1,02-06-2021,United States,New York,Health,Northzone Ventures
+846,LetsGetChecked,1,07-06-2021,Ireland,Dublin,Health,Optum Ventures
+847,EcoFlow,1,10-06-2021,China,Shenzhen,Hardware,Delian Capital
+848,Carro,1,14-06-2021,Singapore,Singapore,E-commerce & direct-to-consumer,SingTel Innov8
+849,Tractable,1,16-06-2021,United Kingdom,London,Artificial intelligence,Insight Partners
+850,Bringg,1,16-06-2021,Israel,Tel Aviv,Supply chain logistics & delivery,Salesforce Ventures
+851,Claroty,1,17-06-2021,United States,New York,Cybersecurity,Bessemer Venture Partners
+852,JoyTunes,1,21-06-2021,Israel,Tel Aviv,Edtech,Genesis Partners
+853,Aircall,1,23-06-2021,United States,New York,Internet software & services,Balderton Capital
+854,SmartAsset,1,24-06-2021,United States,New York,Fintech,Javelin Venture Partners
+855,Morning Consult,1,08-06-2021,United States,Washington DC,Internet software & services,Advance Venture Partners
+856,Visier,1,29-06-2021,Canada,Vancouver,Internet software & services,Foundation Capital
+857,ShipBob,1,29-06-2021,United States,Chicago,Supply chain logistics & delivery,"Hyde Park Venture Partners,	FundersClub. Bain Capital Ventures"
+858,Dream Games,1,30-06-2021,Turkey,Istanbul,Mobile & telecommunications,Makers Fund
+859,Grofers,1.01,30-06-2021,India,Gurgaon,Supply chain logistics & delivery,Tiger Global Management
+860,Kitopi,1,01-07-2021,United Arab Emirates,Dubai,Supply chain logistics & delivery,CE-Ventures
+861,bolttech,1,01-07-2021,Singapore,Singapore,Fintech,Mundi Ventures
+862,MobileCoin,1,07-07-2021,United States,San Francisco,Fintech,General Catalyst
+863,Lunar,1,12-07-2021,Denmark,Aarhus,Fintech,SEED Capital
+864,Amperity,1,13-07-2021,United States,Seattle,Artificial intelligence,Madrona Venture Group
+865,Remote,1,13-07-2021,United States,San Francisco,Fintech,Index Ventures
+866,Pantheon Systems,1,13-07-2021,United States,San Francisco,Internet software & services,Foundry Group
+867,Xiaobing,1,12-07-2021,China,Beijing,Fintech,NetEase Capital
+868,Carson Group,1,14-07-2021,United States,Lincoln,Fintech,Bain Capital
+869,GO1,1,19-07-2021,Australia,Brisbane,Internet software & services,Y Combinator
+870,Interos,1,22-07-2021,United States,Arlington,Fintech,Kleiner Perkins Caufield & Byers
+871,BlackBuck,1,22-07-2021,India,Bengaluru,Supply chain logistics & delivery,Accel
+872,NIUM,1,13-07-2021,Singapore,Singapore,Fintech,Vertex Ventures SE Asia
+873,Unico,1,03-08-2021,Brazil,Sao Paulo,Artificial intelligence,Big Bets
+874,Human Interest,1,04-08-2021,United States,San Francisco,Fintech,Wing Venture Capital
+875,Bluecore,1,05-08-2021,United States,New York,Artificial intelligence,FirstMark Capital
+876,Freshbooks,1,10-08-2021,Canada,Toronto,Fintech,Accomplice
+877,Snorkel AI,1,09-08-2021,United States,Palo Alto,Artificial intelligence,Greylock Partners
+878,Gelato,1,16-08-2021,Norway,Oslo,E-commerce & direct-to-consumer,Greylock Partners
+879,Maven Clinic,1,17-08-2021,United States,New York,Health,Female Founders Fund
+880,Zetwerk,1.33,20-08-2021,India,Bengaluru,Internet software & services,Sequoia Capital India
+881,Dunamu,1,22-07-2021,South Korea,Seoul,Fintech,Qualcomm Ventures
+882,Shield AI,1,24-08-2021,United States,San Diego,Artificial intelligence,Andreessen Horowitz
+883,PicsArt,1,26-08-2021,United States,San Francisco,Mobile & telecommunications,Sequoia Capital
+884,1KMXC,1,30-08-2021,China,Hangzhou,Hardware,Goldman Sachs Asset Management
+885,Cider,1,02-09-2021,Hong Kong,Hong Kong,E-commerce & direct-to-consumer,Andreessen Horowitz
+886,Berlin Brands Group,1,01-09-2021,Germany,Berlin,E-commerce & direct-to-consumer,Ardian
+887,Agile Robots,1,09-09-2021,Germany,Munich,Hardware,Hillhouse Capital Management
+888,GrubMarket,1.2,14-09-2021,United States,San Francisco,E-commerce & direct-to-consumer,GGV Capital
+889,Mammoth Biosciences,1,09-09-2021,United States,Brisbane,Health,NFX
+890,Orchard,1,09-09-2021,United States,New York,Fintech,Accomplice
+891,Xendit,1,14-09-2021,Indonesia,Jakarta,Fintech,Accel
+892,TrueLayer,1,21-09-2021,United Kingdom,London,Fintech,Anthemis
+893,Assembly,1,21-09-2021,United States,Culver City,Internet software & services,Advent International
+894,PandaDoc,1,22-09-2021,United States,San Francisco,Internet software & services,Rembrandt Venture Partners
+895,Keenon Robotics,1,15-09-2021,China,Shanghai,Supply chain logistics & delivery,Yunqi Partners
+896,HAYDON,1,24-09-2021,China,Shanghai,Consumer & retail,Tencent Holdings
+897,Ninja Van,1,27-09-2021,Singapore,Singapore,Supply chain logistics & delivery,B Capital Group
+898,Vedantu,1,29-09-2021,India,Bengaluru,Edtech,Accel
+899,TrialSpark,1,30-09-2021,United States,New York,Health,Sequoia Capital
+900,Ajaib,1,04-10-2021,Indonesia,Jakarta,Fintech,Softbank Ventures Asia
+901,Licious,1,05-10-2021,India,Bengaluru,E-commerce & direct-to-consumer,3one4 Capital Partners
+902,Masterworks,1,05-10-2021,United States,New York,Fintech,Left Lane Capital
+903,Chronosphere,1,07-10-2021,United States,New York,Data management & analytics,Greylock Partners
+904,Solo.io,1,07-10-2021,United States,Cambridge,Internet software & services,True Ventures
+905,Swile,1,11-10-2021,France,Montpellier,Fintech,Index Ventures
+906,Zopa,1,19-10-2021,United Kingdom,London,Fintech,IAG Capital Partners
+907,Dental Monitoring,1,21-10-2021,France,Paris,Health,Vitruvian Partners
+908,CargoX,1,21-10-2021,Brazil,Sao Paulo,Supply chain logistics & delivery,Valor Capital Group
+909,Fabric,1,26-10-2021,United States,New York,Supply chain logistics & delivery,Innovation Endeavors
+910,Augury,1,26-10-2021,United States,New York,Artificial intelligence,Lerer Hippeau
+911,Moka,1,02-11-2021,China,Beijing,Internet software & services,GGV Capital
+912,Tezign,1,02-11-2021,China,Shanghai,Internet software & services,Sequoia Capital China
+913,Vagaro,1,03-11-2021,United States,Dublin,Internet software & services,FTV Capital
+914,Drata,1,08-11-2021,United States,San Diego,Cybersecurity,Cowboy Ventures
+915,Razor,1,08-11-2021,Germany,Berlin,Consumer & retail,Global Founders Capital
+916,OpenWeb,1,09-11-2021,United States,New York,Internet software & services,Insight Partners
+917,Contrast Security,1,09-11-2021,United States,Los Altos,Cybersecurity,Acero Capital
+918,Wrapbook,1,10-11-2021,United States,New York,Fintech,Equal Ventures
+919,Gaussian Robotics,1,10-11-2021,China,Shanghai,Hardware,BlueRun Ventures
+920,Mensa Brands,1,16-11-2021,India,Bengaluru,Other,Accel
+921,Heyday,1,16-11-2021,United States,Chicago,E-commerce & direct-to-consumer,"Khosla Ventures,General Catalyst"
+922,PLACE,1,17-11-2021,United States,Bellingham,Internet software & services,Goldman Sachs Asset Management
+923,Stytch,1,18-11-2021,United States,San Francisco,Cybersecurity,Index Ventures
+924,Owkin,1,18-11-2021,United States,New York,Artificial intelligence,Google Ventures
+925,Expel,1,18-11-2021,United States,Herndon,Cybersecurity,Paladin Capital Group
+926,NoBroker,1,23-11-2021,India,Bengaluru,Internet software & services,General Atlantic
+927,Slice,1,28-11-2021,India,Bengaluru,Fintech,Gunosy Capital
+928,Thought Machine,1,29-11-2021,United Kingdom,London,Fintech,British Patient Capital
+929,Lessen,1,30-11-2021,United States,Scottsdale,Internet software & services,Khosla Ventures
+930,Clara,1,06-12-2021,Mexico,Mexico City,Fintech,DST Global
+931,YipitData,1,06-12-2021,United States,New York,Internet software & services,RRE Ventures+
+932,Anyscale,1,07-12-2021,United States,Berkeley,Artificial intelligence,Andreessen Horowitz
+933,Iodine Software,1,01-12-2021,United States,Austin,Data management & analytics,Advent International
+934,ReliaQuest,1,01-12-2021,United States,Tampa,Cybersecurity,KKR
+935,Pet Circle,1,07-12-2021,Australia,Alexandria,E-commerce & direct-to-consumer,Prysm Capital
